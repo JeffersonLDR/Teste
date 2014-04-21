@@ -1,4 +1,0 @@
-Teste
-=====
-
-Teste sobre responsividade
